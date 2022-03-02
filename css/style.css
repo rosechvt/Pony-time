@@ -1,0 +1,16 @@
+@import url("components/container.css");
+@import url("components/btn.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+p{
+	font-family: 'DM Sans', sans-serif;
+	font-weight: 18px;
+	text-align: justify;
+}
+
+h1,h2,h3{
+	font-family: 'Shippori Antique B1', sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+ 
